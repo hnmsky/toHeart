@@ -19,6 +19,7 @@
 
 <img src="https://github.com/hnmsky/toHeart/raw/master/pic/stock.png" width="50%">  
 
+
 ##设置  
 可以设置形状，过滤一些不想要的关键字等。  
 
